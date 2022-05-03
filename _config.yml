@@ -40,7 +40,7 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : Avoid Costly Fines
-    description                           : Plan your trip to Wembley and avoid costly parking charges, fines, or worse!
+    description                           : Avoid costly parking charges, fines, or worse!
     fontawesome_icon_name                 : mobile
 
   - title                                 : What's On
@@ -52,11 +52,11 @@ features                                  :
     fontawesome_icon_name                 : sync
 
   - title                                 : Parking Restrictions
-    description                           : Know when and where you can and can't park, refresh your knowledge, and plan with the help of handy explanations and resources.
+    description                           : Refresh your knowledge and build awareness with the help of handy explanations and resources.
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Plan
+    description                           : Knowledge is power. Whether you're catching a show or just exploring, empower yourself to plan a trip you'll enjoy.
     fontawesome_icon_name                 : star
 
   - title                                 : Smart App Banner
