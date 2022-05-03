@@ -5,7 +5,7 @@ include_in_header: true
 ---
 
 # Changelog
-**Wembley Event Days** version 1.2.0-beta is our first fully-featured version and is officially available for download free from [Google Play](https://play.google.com/store/apps/details?id=io.journeystudios.eventdays&gl=GB). We are working hard to bring Wembley Event Days to the Apple Store and expect to be available on iOS very soon 🙂
+**Wembley Event Days** version 1.2.0-beta is our first fully-featured version and is officially available for download free from [Google Play](https://play.google.com/store/apps/details?id=io.journeystudios.eventdays&gl=GB). We are working hard to bring Wembley Event Days to the Apple Store and expect it to be available on iOS very soon 🙂
 
 <br>
 
