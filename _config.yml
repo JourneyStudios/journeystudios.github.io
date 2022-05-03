@@ -36,7 +36,7 @@ youtube_username                          :
 features                                  :
 
   - title                                 : At A Glance
-    description                           : Know if it's event day and whether any parking restrictions apply with just a glance.
+    description                           : Know at a glance if it's an event day and whether any parking restrictions apply.
     fontawesome_icon_name                 : magic
     
   - title                                 : Avoid Costly Fines
