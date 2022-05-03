@@ -11,7 +11,7 @@ include_in_header: true
 
 ### `Latest`
 # **Version 1.2.0-beta**
-This marks the first official release of our app to the Google Play Store, we haven't had any bugs reported yet but you never know! If you spot anything let us know at help@journeystudios.io and we'll try our best to get improvements scheduled in subsequent updates!
+This marks the first official release of our app to the Google Play Store, we haven't had any bugs reported yet but you never know! If you spot anything let us know at [help@journeystudios.io](help@journeystudios.io ) and we'll try our best to get improvements scheduled in subsequent updates!
 
 #### What's New
 - Display whether it's an event day in the Wembley area, specifically Wembley Arena and Wembley Stadium events
